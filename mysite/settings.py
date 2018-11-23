@@ -25,7 +25,7 @@ SECRET_KEY = 'o^yn5xo8ydx99vf@6c(!ba4fkzquia0pji+u5@nd&**3n+70y0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'kaze.pythonanywhere.com'] # djangogirls
+ALLOWED_HOSTS = ['127.0.0.1', 'webdos24.pythonanywhere.com'] # djangogirls
 
 
 # Application definition
